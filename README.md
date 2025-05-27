@@ -1,20 +1,22 @@
-
-<h1 align="center">🎵 SurTaalBot — Where Melody Meets Technology 🇮🇳</h1>
-
+<p align="center"> 
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=🇮🇳SurTaalBot🇮🇳&height=100&section=header"/> 
+ </p> 
+<h1 align="center">
+<a href="https://telegram.dog/SurTaalBot">『SurTaalBot』​​​​​​</a>
+</h1>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <p align="center">
   <img src="https://img.shields.io/github/stars/BadshahAk/SurTaalBot?style=for-the-badge" alt="Stars">
   <img src="https://img.shields.io/github/forks/BadshahAk/SurTaalBot?style=for-the-badge" alt="Forks">
   <img src="https://img.shields.io/github/license/BadshahAk/SurTaalBot?style=for-the-badge" alt="License">
 </p>
-
----
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 ## ✨ About
 **SurTaalBot** is an Indian-classical themed Telegram music bot with frosted-glass UI, animated buttons, and advanced streaming commands. Inspired by the rhythm of sitar, tabla and soulful melodies, it turns your group into a live mehfil.
 
 > "जहाँ सुर और ताल मिलते हैं, वहाँ SurTaalBot चलता है..."
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🎼 Features
 
@@ -25,14 +27,14 @@
 - 🛠 Admin panel, control system, and autoplay
 - 🌐 [Web Control Panel](https://sangeetnatak.gov.in) — Click commands with UI!
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🖥 Live Demo
 
 Explore the bot with all commands on our interactive panel:  
 🔗 **[https://sur-taal-bot-official.vercel.app/](https://sur-taal-bot-official.vercel.app/)**
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## ⚙️ Tech Stack
 
@@ -42,7 +44,7 @@ Explore the bot with all commands on our interactive panel:
 - Node.js & FFmpeg
 - MongoDB
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🧩 Commands Preview
 
@@ -56,7 +58,7 @@ Explore the bot with all commands on our interactive panel:
 
 ▶️ View full list [here](https://sur-taal-bot-official.vercel.app/)
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🚀 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦
 
@@ -96,27 +98,29 @@ sudo pkill -9 python3
 
 </details>
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🔐 Privacy
 
 We don't store any user data. Bot operates 100% on Telegram API and your input.  
 [Privacy Policy →](https://gist.github.com/king2000ak/75ed986d2c171f71de386c73fa9fa2ea)
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 🤝 Contribute
 
 Pull Requests are most welcome! Add features, fix bugs, or create UI effects.
 
----
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## 📡 Connect with Us
 
 - Telegram Bot: [@SurTaalBot](https://t.me/SurTaalBot)
 - GitHub: [BadshahAk](https://github.com/BadshahAk)
 - Panel: [sur-taal-bot-official.vercel.app](https://sur-taal-bot-official.vercel.app/)
-
----
-
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h3 align="center">🎶 “Let music flow from the Sur to your soul with SurTaalBot” ❤️</h3>
+<p align="left"> 
+   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/> 
+ </p>
