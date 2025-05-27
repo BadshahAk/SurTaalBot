@@ -23,7 +23,7 @@
 - 🥁 YouTube, Spotify & JioSaavn supported
 - 🪕 Inline Search: Instant song preview
 - 🛠 Admin panel, control system, and autoplay
-- 🌐 [Web Control Panel](https://sur-taal-bot-official.vercel.app/) — Click commands with UI!
+- 🌐 [Web Control Panel](https://sangeetnatak.gov.in) — Click commands with UI!
 
 ---
 
@@ -101,7 +101,7 @@ sudo pkill -9 python3
 ## 🔐 Privacy
 
 We don't store any user data. Bot operates 100% on Telegram API and your input.  
-[Privacy Policy →](https://sur-taal-bot-official.vercel.app/privacy)
+[Privacy Policy →](https://gist.github.com/king2000ak/75ed986d2c171f71de386c73fa9fa2ea)
 
 ---
 
